@@ -11,8 +11,6 @@ class AuthState {
 
     private static final int[] ACCESS_STATES = new int[]{
             NO_AUTH,
-            BASIC_AUTH,
-            AUTHORIZATION_AUTH,
             FINAL_AUTH
     };
 
